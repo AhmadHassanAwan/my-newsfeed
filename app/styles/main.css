@@ -1,0 +1,11 @@
+#MNOptions label{
+  display: block;
+}
+
+#MNOptions input{
+  vertical-align: middle;
+}
+
+#MNOptions{
+  width: 100px;
+}
